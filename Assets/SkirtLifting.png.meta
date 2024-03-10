@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 4bb08d2b096864fc7911bc9f7595509d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6178233105787222434
+    second: SkirtLifting_0
+  - first:
+      213: 582138252500784830
+    second: SkirtLifting_1
+  - first:
+      213: -2889536604857934159
+    second: SkirtLifting_2
+  - first:
+      213: 5298610683431172446
+    second: SkirtLifting_3
+  - first:
+      213: -1214558240494507626
+    second: SkirtLifting_4
+  - first:
+      213: 7376092133300691490
+    second: SkirtLifting_5
+  - first:
+      213: 1324224147482305258
+    second: SkirtLifting_6
+  - first:
+      213: -2850821596731442716
+    second: SkirtLifting_7
+  - first:
+      213: -3658671822514673492
+    second: SkirtLifting_8
+  - first:
+      213: -5979332947709458696
+    second: SkirtLifting_9
+  - first:
+      213: -5423842738417382135
+    second: SkirtLifting_10
+  - first:
+      213: -3401088614056569434
+    second: SkirtLifting_11
+  - first:
+      213: -2249998692357487780
+    second: SkirtLifting_12
+  - first:
+      213: -1419294345304480251
+    second: SkirtLifting_13
+  - first:
+      213: -651725664444205856
+    second: SkirtLifting_14
+  - first:
+      213: -3303490972402894983
+    second: SkirtLifting_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkirtLifting_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9710aa64e7db550800000000000000
+      internalID: 6178233105787222434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d97608ab241800800000000000000
+      internalID: 582138252500784830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be54fd64cd46e7d0800000000000000
+      internalID: -2889536604857934159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e593105e752788940800000000000000
+      internalID: 5298610683431172446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992d4c17b5052fe0800000000000000
+      internalID: -1214558240494507626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222e0fb07b42d5660800000000000000
+      internalID: 7376092133300691490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26da998d6906210800000000000000
+      internalID: 1324224147482305258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97fc0bcd8df68d0800000000000000
+      internalID: -2850821596731442716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca82845ac59c93dc0800000000000000
+      internalID: -3658671822514673492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60df92d54250da0800000000000000
+      internalID: -5979332947709458696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_10
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dcc0324c3aab4b0800000000000000
+      internalID: -5423842738417382135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_11
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5588ddce7ecc0d0800000000000000
+      internalID: -3401088614056569434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_12
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5340fc3c1666c0e0800000000000000
+      internalID: -2249998692357487780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_13
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e76c0057ad4ce0800000000000000
+      internalID: -1419294345304480251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_14
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43ccf06fa94f6f0800000000000000
+      internalID: -651725664444205856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkirtLifting_15
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 95.75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97737379674a722d0800000000000000
+      internalID: -3303490972402894983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SkirtLifting_0: 6178233105787222434
+      SkirtLifting_1: 582138252500784830
+      SkirtLifting_10: -5423842738417382135
+      SkirtLifting_11: -3401088614056569434
+      SkirtLifting_12: -2249998692357487780
+      SkirtLifting_13: -1419294345304480251
+      SkirtLifting_14: -651725664444205856
+      SkirtLifting_15: -3303490972402894983
+      SkirtLifting_2: -2889536604857934159
+      SkirtLifting_3: 5298610683431172446
+      SkirtLifting_4: -1214558240494507626
+      SkirtLifting_5: 7376092133300691490
+      SkirtLifting_6: 1324224147482305258
+      SkirtLifting_7: -2850821596731442716
+      SkirtLifting_8: -3658671822514673492
+      SkirtLifting_9: -5979332947709458696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
